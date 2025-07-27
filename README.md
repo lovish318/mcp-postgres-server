@@ -1,6 +1,6 @@
-# MCP Postgres Server
+# Natural language Postgres Server
 
-This project is a Node.js server that connects to a PostgreSQL database. It includes utilities for AI and database interactions.
+This project is a Node.js server that connects to a PostgreSQL database. It includes utilities for AI and database interactions in natural language.
 
 ---
 
